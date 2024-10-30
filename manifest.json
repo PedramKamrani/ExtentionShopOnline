@@ -1,0 +1,11 @@
+{  
+    "manifest_version": 3,  
+    "name": "lena boutique",  
+    "description": "This extension is designed for Presend Lena Shop",  
+    "version": "1.0",  
+    "action": {  
+        "default_icon": "images/zi.png",  
+        "default_popup": "popup.html"  
+    },  
+    "permissions": ["activeTab"]  
+}  
